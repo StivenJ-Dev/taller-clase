@@ -1,3 +1,6 @@
+/*Necesito un programa que calcule el total de mi compra en el
+ supermercado. Pide el precio de tres productos diferentes y
+  muestra el total a pagar.*/
 let prod1 = parseFloat(prompt("Precio del primer producto:"));
 let prod2 = parseFloat(prompt("Precio del segundo producto:"));
 let prod3 = parseFloat(prompt("Precio del tercer producto:"));
